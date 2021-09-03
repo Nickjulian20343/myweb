@@ -15,7 +15,7 @@ public class ASCIIART {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("    /////////////////");
+        System.out.println("   /////////////////");
        System.out.println("   ///////////////// ");
        System.out.println("  //   !-     -!   //");
        System.out.println("  //   (D)   (D)   //");
@@ -27,7 +27,7 @@ public class ASCIIART {
        System.out.println("  //  mwmwmwmwmwm  //");
        System.out.println("  // <-----------> //");
        System.out.println("  //               //");
-       System.out.println("  ///////////////////");
+       System.out.println("  ///////////////////   ");
        System.out.println("  ///////////////////");
        
     }
