@@ -3,11 +3,13 @@ h1
 	color:orange;
 	background-color: black;
 	text-align:center;
+	font-family: "Courier New", uppercase;
 }
 
 h2
 {
 	color:#35979C;
+	font-size: 1.9em; 
 }
 
 a
@@ -19,4 +21,6 @@ body
 {
 	color:#3336A7;
 	background-color: black;
+	font-size: 1.1em;
+	
 }
