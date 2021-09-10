@@ -9,12 +9,17 @@ h1
 h2
 {
 	color:#35979C;
+
+	font-family: "Courier New", uppercase;
+
 	font-size: 1.9em; 
 }
 
 a
 {
 	color:#6D27A0;
+	
+	font-family: "Courier New", cursive;
 }
 
 body
@@ -22,5 +27,6 @@ body
 	color:#3336A7;
 	background-color: black;
 	font-size: 1.1em;
+	font-family: "Courier New", cursive;
 	
 }
