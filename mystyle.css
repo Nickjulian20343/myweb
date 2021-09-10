@@ -4,6 +4,7 @@ h1
 	background-color: black;
 	text-align:center;
 	font-family: "Courier New", uppercase;
+	text-transform: capitalize;
 }
 
 h2
@@ -28,5 +29,6 @@ body
 	background-color: black;
 	font-size: 1.1em;
 	font-family: "Courier New", cursive;
+	text-indent; 3em;
 	
 }
