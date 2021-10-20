@@ -1,9 +1,59 @@
+nav
+{
+	background-color: #3336A7;
+	line-height: 200%;
+	display: block;
+	
+}
+
+nav li
+{
+	display: inline;
+	padding-right: 40px;
+	list-style-type : none;
+}
+
+nav a:link
+{
+	color:white;
+	text-decoration: none;
+}
+
+nav a:visited
+{
+	color:white;
+}
+
+nav a:hover
+{
+	text-decoration: underline;
+}
+
+nav a:Active
+{
+	color:orange;
+	text-decoration:underline;
+}
+
+
+h1, h2
+{
+	font-family: "courier New", uppercase;
+}
+
+a, body
+{
+	font-family: "courier New", cursive;
+}
+
 h1
 {
 	color:orange;
+	
 	background-color: black;
+	
 	text-align:center;
-	font-family: "Courier New", uppercase;
+	
 	text-transform: capitalize;
 }
 
@@ -11,16 +61,12 @@ h2
 {
 	color:#35979C;
 
-	font-family: "Courier New", uppercase;
-
 	font-size: 1.9em; 
 }
 
 a
 {
 	color:#6D27A0;
-	
-	font-family: "Courier New", cursive;
 }
 
 body
@@ -28,7 +74,16 @@ body
 	color:#3336A7;
 	background-color: black;
 	font-size: 1.1em;
-	font-family: "Courier New", cursive;
 	text-indent; 3em;
-	
+}
+
+ul
+{
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+em, strong
+{
+	color: blue;
 }
