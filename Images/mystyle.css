@@ -46,8 +46,19 @@ a, body
 	font-family: "courier New", cursive;
 }
 
+img
+{
+	
+}
+
 h1
 {
+	border: groove thick grey;
+	
+	padding: 20px;
+	
+	margin: 10px;
+	
 	color:orange;
 	
 	background-color: black;
@@ -59,6 +70,10 @@ h1
 
 h2
 {
+	padding: 10px;
+	
+	margin: 5px;
+	
 	color:#35979C;
 
 	font-size: 1.9em; 
@@ -71,15 +86,23 @@ a
 
 body
 {
+	padding: 15px;
+	
+	margin: 5px;
+	
 	color:#3336A7;
+	
 	background-color: black;
+	
 	font-size: 1.1em;
+	
 	text-indent; 3em;
 }
 
 ul
 {
 	list-style-type: square;
+	
 	list-style-position: inside;
 }
 
