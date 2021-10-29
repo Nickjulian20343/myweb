@@ -73,8 +73,6 @@ h2
 	padding: 10px;
 	
 	margin: 5px;
-	
-	color:#35979C;
 
 	font-size: 1.9em; 
 }
@@ -113,4 +111,10 @@ ul
 em, strong
 {
 	color: blue;
+}
+
+.important
+{
+	color: #7D44D6;
+	font-style: italic
 }
