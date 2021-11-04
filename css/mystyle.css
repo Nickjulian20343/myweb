@@ -31,8 +31,8 @@ nav a:hover
 
 nav a:Active
 {
-	color:orange;
-	text-decoration:underline;
+	color: orange;
+	text-decoration: underline;
 }
 
 
@@ -44,11 +44,6 @@ h1, h2
 a, body
 {
 	font-family: "courier New", cursive;
-}
-
-img
-{
-	
 }
 
 h1
@@ -80,6 +75,7 @@ h2
 a
 {
 	color:#6D27A0;
+
 }
 
 body
@@ -116,5 +112,5 @@ em, strong
 .important
 {
 	color: #7D44D6;
-	font-style: italic
+	font-style: italic;
 }
