@@ -1,14 +1,14 @@
 body
 {
+	background: url(../Images/dark_texture1056.jpg) black top left repeat fixed;
+	
+    background-color: black;
+	
 	padding: 15px;
 	
 	margin: 5px;
 	
 	color:#3336A7;
-	
-	background: url(../Images/dark_texture1056.jpg) black top left repeat fixed;
-	
-    background-color: black;
 	
 	font-size: 1.1em;
 	
