@@ -1,3 +1,29 @@
+table
+{
+	border: solid 2px white;
+	border-collapse: collapse;
+	border-spacing:
+}
+
+tr, td, th
+{
+	border: solid 2px white;
+	padding: 5px;
+	width: 100px;
+	text-align: center;
+}
+
+Caption
+{
+	caption-side: top;
+}
+
+
+
+
+
+
+
 body
 {
 	background: url(../Images/dark_texture1056.jpg) black top left repeat fixed;
@@ -8,7 +34,7 @@ body
 	
 	margin: 5px;
 	
-	color:#3336A7;
+	color: orange;
 	
 	font-size: 1.1em;
 	
@@ -52,17 +78,6 @@ nav a:Active
 	text-decoration: underline;
 }
 
-
-h1, h2
-{
-	font-family: "courier New", uppercase;
-}
-
-a, body
-{
-	font-family: "courier New", cursive;
-}
-
 h1
 {
 	border: groove thick grey;
@@ -78,39 +93,3 @@ h1
 	text-align:center;
 	
 	text-transform: capitalize;
-}
-
-h2
-{
-	padding: 10px;
-	
-	margin: 5px;
-
-	font-size: 1.9em; 
-}
-
-a
-{
-	color:#6D27A0;
-
-}
-
-ul
-{
-	list-style-type: square;
-	
-	list-style-position: inside;
-}
-
-em, strong
-{
-	color: blue;
-}
-
-
-
-.important
-{
-	color: #7D44D6;
-	font-style: italic;
-}
