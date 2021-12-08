@@ -3,6 +3,7 @@ table
 	
 	border: solid 2px white;
 	border-collapse: collapse;
+	margin: auto;
 	
 }
 
@@ -19,7 +20,11 @@ Caption
 	caption-side: top;
 }
 
-
+tr:hover
+{
+	color: blue;
+	background-color: ;
+}
 
 
 
