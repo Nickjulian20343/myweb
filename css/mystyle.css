@@ -8,7 +8,7 @@ body
 	
 	margin: 5px;
 	
-	color:#3336A7;
+	color: #FF7600;
 	
 	font-size: 1.1em;
 	
@@ -104,13 +104,13 @@ ul
 
 em, strong
 {
-	color: blue;
+	color:#FF7600 ;
 }
 
 
 
 .important
 {
-	color: #7D44D6;
+	color: white;
 	font-style: italic;
 }

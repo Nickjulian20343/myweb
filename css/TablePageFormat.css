@@ -22,10 +22,15 @@ Caption
 
 tr:hover
 {
-	color: blue;
+	color: red;
 	background-color: ;
 }
 
+a:Active
+{
+	color: #6D27A0;
+	text-decoration: none;
+}
 
 
 
