@@ -23,6 +23,11 @@ nav
 	
 }
 
+iframe
+{
+	margin: auto;
+}
+
 nav li
 {
 	display: inline;
